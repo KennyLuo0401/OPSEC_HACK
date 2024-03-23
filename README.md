@@ -74,22 +74,24 @@ This repository is currently under development for the POC. Further technical de
 
 ## Documentation and User Experience Improvement
 
-** Project Overview**
+**Project Overview**
 
 This project aims to improve the documentation and user experience of OpSec components and applications. The goal is to enhance user understanding and adoption of OpSec by providing clear, concise, and up-to-date documentation, as well as by identifying and addressing usability issues.
 
-** Tasks Completed
+**Tasks Completed**
 
 Documentation Enhancement Initiative
 * Reviewed and updated outdated documentation for OpSec components, including tutorials, API references, and troubleshooting guides.
 * Added clarifications and explanations to complex concepts and procedures.
 * Incorporated user feedback to improve the accuracy and completeness of documentation.
+
 User Experience Optimization
 * Identified usability issues in OpSec applications and services, such as installation processes, configuration interfaces, and user interfaces.
 * Proposed enhancements to streamline usability and accessibility for all users.
 * Implemented some of the proposed enhancements, such as simplifying the installation process and adding more user-friendly features to the configuration interface.
-** Project Outcomes**
-The project resulted in the following outcomes:
 
+** Project Outcomes**
+
+The project resulted in the following outcomes:
 * Improved documentation: The documentation for OpSec components is now more clear, concise, and up-to-date. This will make it easier for users to understand and use OpSec.
 * Enhanced user experience: The usability of OpSec applications and services has been improved. This will make OpSec more accessible to a wider range of users.
