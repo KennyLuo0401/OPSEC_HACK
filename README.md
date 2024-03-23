@@ -90,8 +90,12 @@ User Experience Optimization
 * Proposed enhancements to streamline usability and accessibility for all users.
 * Implemented some of the proposed enhancements, such as simplifying the installation process and adding more user-friendly features to the configuration interface.
 
-** Project Outcomes**
+**Project Outcomes**
 
 The project resulted in the following outcomes:
 * Improved documentation: The documentation for OpSec components is now more clear, concise, and up-to-date. This will make it easier for users to understand and use OpSec.
 * Enhanced user experience: The usability of OpSec applications and services has been improved. This will make OpSec more accessible to a wider range of users.
+
+**Modified Doc Link**
+
+https://amused-objective-fc1.notion.site/2024_ETHTaipei_OPSec-01c13effb449404a80b4feb4ee4e94ff
